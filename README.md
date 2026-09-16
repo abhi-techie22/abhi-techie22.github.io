@@ -19,4 +19,4 @@ https://unisafex-v1.abhishek-work962511.chatgpt.site
 
 ## Notes
 
-The partnership form currently shows an on-page thank-you confirmation. Connect it to Supabase or another backend when you want to store submissions.
+The partnership form sends submissions to `abhishek.work962511@gmail.com` through FormSubmit. The first live submission may trigger a one-time FormSubmit confirmation email before future submissions are delivered normally.
