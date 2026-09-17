@@ -18,7 +18,7 @@ Static website for UniSafeX, the tourism safety companion for visitors in India.
 
 ## Live Site
 
-https://abhi-techie22.github.io/
+https://unisafex.github.io/
 
 ## Alternate Deployment
 
